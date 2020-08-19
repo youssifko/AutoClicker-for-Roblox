@@ -1,1 +1,1 @@
-# AutoClicker-for-Roblox
+# AutoClicker-for-Roblox simulator
